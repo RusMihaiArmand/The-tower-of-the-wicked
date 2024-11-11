@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Projectile
+  - Wall
+  - Player Projectile
+  - Testing
+  - Enemy
+  - Door
+  - Inventory Slot
+  - Canvas
+  - Room
+  - PathBlocker
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - rock
+  - wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 1868878787
+    locked: 0
+  - name: 2
+    uniqueID: 913414493
+    locked: 0
+  - name: 3
+    uniqueID: 1212547491
+    locked: 0
+  - name: 4
+    uniqueID: 3046325429
+    locked: 0
+  - name: 5
+    uniqueID: 3515775665
+    locked: 0
+  - name: 6
+    uniqueID: 1883397299
+    locked: 0
+  - name: 7
+    uniqueID: 3954758069
+    locked: 0
+  - name: 8
+    uniqueID: 896257267
+    locked: 0
